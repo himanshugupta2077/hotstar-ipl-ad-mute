@@ -28,6 +28,9 @@ This browser extension automatically mutes ads in live sport streams on Hotstar 
 3. Enable **Developer Mode**
 4. Click **Load unpacked** and select the `chrome` folder
 
+Example:
+![image](https://github.com/user-attachments/assets/f2157c65-58ab-4db0-b38f-6513653d5c49)
+
 ### Mozilla Firefox
 1. Go to `about:debugging#/runtime/this-firefox`
 2. Click **Load Temporary Add-on**
